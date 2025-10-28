@@ -33,10 +33,11 @@ I transform raw data into meaningful insights and build efficient data pipelines
 
 ---
 
-### 🌱 Currently Learning
-- Building end-to-end **data pipelines** using Docker & AWS  
-- Designing **ETL workflows** with PostgreSQL and MinIO  
-- Exploring **data engineering best practices** in CI/CD environments
+### 🌱 Currently Building & Learning
+- 🚀 Developing **end-to-end ETL pipelines** with Docker & AWS  
+- 🧩 Designing **PostgreSQL data models** and workflow automation  
+- ⚙️ Practicing **CI/CD for data engineering** with GitHub Actions  
+
 
 ---
 
@@ -55,3 +56,5 @@ I transform raw data into meaningful insights and build efficient data pipelines
 ---
 
 ⭐ *“Turning Data into Decisions, and Decisions into Impact.”*  
+💬 I’m always open to connecting with fellow data professionals and hiring managers — let’s talk about data, dashboards, and pipelines!
+
