@@ -1,6 +1,12 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=Jing%20You%20|%20Data%20Engineer%20in%20Training&fontSize=28&fontColor=ffffff&animation=fadeIn)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JingYou-data/JingYou-data/main/readme%20title.png" alt="Jing You — Data Analytics & Data Engineering" width="100%">
+</p>
+
+<p align="center"><em>Transforming data into automation, intelligence, and business value</em></p>
+
 ### 👋 Hi there! I'm **Jing You**
 I'm a **Data Engineer & Data Analyst in training** at [Nashville Software School](https://nashvillesoftwareschool.com/).  
 I transform raw data into meaningful insights and build efficient data pipelines that empower data-driven decision-making.
