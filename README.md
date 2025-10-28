@@ -44,7 +44,6 @@ I transform raw data into meaningful insights and build efficient data pipelines
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-you84/)
 [![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jing.you)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DataJing.com-black?logo=githubpages&logoColor=white)](https://datajing.com)
 [![Email](https://img.shields.io/badge/Email-jingliuyou@gmail.com-red?logo=gmail&logoColor=white)](mailto:jingliuyou@gmail.com)
 
 ---
