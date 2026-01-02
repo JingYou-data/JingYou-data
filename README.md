@@ -29,6 +29,7 @@ I transform raw data into meaningful insights and build efficient data pipelines
 ### 📊 Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
+| 📊 [Global Online Retail Strategic Intelligence](https://github.com/JingYou-data/Global_Retail_Analysis) | End-to-end BI solution transforming 541K+ raw records into strategic insights. Featured automated Python ETL and multi-page Power BI storytelling. | Python, Pandas, Power BI |
 | [🔹 From Calls to Crimes: Nashville Public Safety](https://github.com/JingYou-data/Nashville-Public-Safety) | Capstone project analyzing 911 calls and crime data to uncover public safety trends | Python, Pandas, Folium, Power BI |
 | [🏥 Medical Insurance Cost Analysis](https://github.com/JingYou-data/Medical-Insurance-Cost-Analysis-Power-BI) | Built an interactive Power BI dashboard to identify cost patterns and correlations | Power BI, SQL |
 | [💬 Telco Customer Churn Prediction](https://github.com/JingYou-data/Telco-Customer-Churn) | Machine learning model predicting customer churn using classification algorithms | Python, Scikit-learn |
