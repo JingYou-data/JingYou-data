@@ -38,7 +38,7 @@ I build end-to-end data pipelines, design medallion architectures, and turn raw 
 | 🛒 [Brazilian E-Commerce Analytics](https://github.com/JingYou-data/brazilian-ecommerce-powerbi) | across 27 states**. Features dynamic DAX narratives, min-max normalized radar scoring, and RANKX-based state performance rankings. | Power BI, DAX, Power Query |
 | 📊 [Global Online Retail Strategic Intelligence](https://github.com/JingYou-data/Global_Retail_Analysis) | End-to-end BI solution transforming **541K+ raw records** into executive insights. Automated Python ETL feeding a multi-page Power BI report with advanced DAX measures and $8.91M revenue analysis. | Python, Pandas, Power BI, DAX |
 | 🔹 [From Calls to Crimes: Nashville Public Safety](https://github.com/JingYou-data/Nashville-Public-Safety) | Capstone analytics project joining 911 call data with crime records to surface spatial and temporal public safety trends across Nashville neighborhoods. | Python, Pandas, Folium, Power BI |
-| 💬 [Telco Customer Churn Prediction](https://github.com/JingYou-data/Telco-Customer-Churn) | End-to-end ML pipeline predicting customer churn with classification models. Includes feature engineering, model evaluation, and business-framed findings. | Python, Scikit-learn, Pandas |
+| 💬 [Telco Customer Churn Prediction](https://github.com/JingYou-data/Customer-Churn-Prediction) | End-to-end ML pipeline predicting customer churn with classification models. Includes feature engineering, model evaluation, and business-framed findings. | Python, Scikit-learn, Pandas |
 
 ---
 
