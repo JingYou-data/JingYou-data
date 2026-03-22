@@ -61,7 +61,7 @@ I build end-to-end data pipelines, design medallion architectures, and turn raw 
 
 ### 📈 GitHub Stats
 
-![JingYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingYou-data&show_icons=true&theme=tokyonight)
+![JingYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingYou-data&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingYou-data&layout=compact&theme=tokyonight)
 
 ---
