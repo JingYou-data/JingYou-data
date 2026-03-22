@@ -3,6 +3,15 @@
 </p>
 <p align="center"><em>Transforming data into automation, intelligence, and business value</em></p>
 
+<p align="center">
+  <a href="https://jingyou-data.github.io"><img src="https://img.shields.io/badge/🌐 Portfolio-jingyou--data.github.io-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jing-you84/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://public.tableau.com/app/profile/jing.you"><img src="https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
+  <a href="mailto:jingliuyou@gmail.com"><img src="https://img.shields.io/badge/Email-jingliuyou@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
 ### 👋 Hi there! I'm **Jing You**
 
 I'm a **Data Engineer & Analytics Engineer** completing a Data Engineering Apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/).  
@@ -35,10 +44,10 @@ I build end-to-end data pipelines, design medallion architectures, and turn raw 
 | Project | Description | Tools |
 |----------|-------------|-------|
 | 🏥 [NPPES Healthcare Provider Analytics](https://github.com/JingYou-data/NPPES) | Production-grade ELT pipeline processing **8.85M records (9.9 GB)** through a medallion architecture. Analyzes geographic distribution, specialty mix, and provider density across US counties. Orchestrated with Airflow, modeled in dbt, served from Snowflake. | Python, Polars, DuckDB, dbt, Snowflake, Airflow, AWS S3 |
-| 🛒 [Brazilian E-Commerce Analytics](https://github.com/JingYou-data/brazilian-ecommerce-powerbi) | across 27 states**. Features dynamic DAX narratives, min-max normalized radar scoring, and RANKX-based state performance rankings. | Power BI, DAX, Power Query |
+| 🛒 [Brazilian E-Commerce Analytics](https://github.com/JingYou-data/Brazilian-Ecommerce) | Multi-page Power BI dashboard analyzing **99K+ orders across 27 states**. Features dynamic DAX narratives, min-max normalized radar scoring, and RANKX-based state performance rankings. | Power BI, DAX, Power Query |
 | 📊 [Global Online Retail Strategic Intelligence](https://github.com/JingYou-data/Global_Retail_Analysis) | End-to-end BI solution transforming **541K+ raw records** into executive insights. Automated Python ETL feeding a multi-page Power BI report with advanced DAX measures and $8.91M revenue analysis. | Python, Pandas, Power BI, DAX |
 | 🔹 [From Calls to Crimes: Nashville Public Safety](https://github.com/JingYou-data/Nashville-Public-Safety) | Capstone analytics project joining 911 call data with crime records to surface spatial and temporal public safety trends across Nashville neighborhoods. | Python, Pandas, Folium, Power BI |
-| 💬 [Telco Customer Churn Prediction](https://github.com/JingYou-data/Customer-Churn-Prediction) | End-to-end ML pipeline predicting customer churn with classification models. Includes feature engineering, model evaluation, and business-framed findings. | Python, Scikit-learn, Pandas |
+| 💬 [Telco Customer Churn Prediction](https://github.com/JingYou-data/Telco-Customer-Churn) | End-to-end ML pipeline predicting customer churn with classification models. Includes feature engineering, model evaluation, and business-framed findings. | Python, Scikit-learn, Pandas |
 
 ---
 
@@ -48,14 +57,6 @@ I build end-to-end data pipelines, design medallion architectures, and turn raw 
 - 🔥 **Databricks / Apache Spark** — distributed processing and large-scale transformation
 - 📡 **Event-driven data systems** — S3 listeners and trigger-based pipeline patterns
 - ☁️ Preparing for **DP-700 Microsoft Fabric Data Engineer** certification
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-you84/)
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jing.you)
-[![Email](https://img.shields.io/badge/Email-jingliuyou@gmail.com-red?logo=gmail&logoColor=white)](mailto:jingliuyou@gmail.com)
 
 ---
 
